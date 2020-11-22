@@ -6,3 +6,5 @@ I added lines to help with the continuous data download, there is still a lot to
 <p>Requires: <b><a target="_blank" href="https://s3fs.readthedocs.io/en/latest/">s3fs</a></b></p>
 <p>In Anaconda, download via conda-forge.</p>
 Link of site where data is downloaded: <a target="_blank" href="http://home.chpc.utah.edu/~u0553130/Brian_Blaylock/cgi-bin/generic_AWS_download.cgi?DATASET=noaa-goes16">Click Here</a>
+<br>
+<p><b>OBS:</b> When the dataset not exist in the site, the script will return a message of error. I recommend you search in the site for the next day or hour valid.</p>
